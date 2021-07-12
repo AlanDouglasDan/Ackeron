@@ -1,0 +1,48 @@
+Ackeron is a holistic social networking platform constituiting all the major features of all other social networks including the likes of facebook, whatsapp, instagram, twitter e.t.c.
+
+Some of the main features of the site is:
+    - Posting functionality
+    - A progress bar showing the percentage of data posted in real time
+    - A way to mention friends in your posts
+    - A way to add your location to your post
+    - A way to tag friends in your posts
+    - A login and signup functionality
+    - A home page for viewing the posts with infinite scrolling functionality
+    - A profile page for every user that has signed up for the site
+    - An automatic login functionality 
+    - Darkmode 
+    - Ability to send, accept and reject friend requests
+    - A way to view all the friends of a particular user
+    - Liking posts
+    - Commenting on posts
+    - Forwarding posts in form of messages that the recipient can view by clicking the link that appears on the chat
+    - An instant messaging functionality
+    - A means to create and join group chats
+    - A way to pin important chats
+    - Replying to specific messages
+    - Uploading media files(images and videos) with a progress bar that counts in real time
+    - A means of viewing the time a message was sent, delivered and read
+    - A way to forward a sent message to multiple people at once
+    - A way to text-blast(forward) a written message to multiple people at once
+    - A way to view all your friends online at a particular time
+    - A way to clear all your chats
+    - A way to block certain people from chatting with you
+    - A way to add people to a group(if you're an admin) with a group invite link
+    - A means of changing your personal details 
+    - Notifications on new posts, friend requests, upcoming birthdays, level ups e.t.c
+    - Level-ups that attests to a users presence and devotion to the site
+    - A beautiful masthead containing the company's info
+    - A way to save posts and view the saved posts
+    - Sound effects play when certain buttons are clicked
+    - A way to close your account 
+    - Your account is re-opened when you login with the details of the closed account
+    - A trending hashtags board that shows the 15 top trends on the site
+    - When hashtags are used in a post they are changed to a certain type of link that when clicked takes you to a page that shows how many times the hashtag has been used and arranges the posts in order of recent posts or the degree of likes on the post
+    - A unique and classy way of viewing media(images and videos) posted
+    - A logout functionality that is activated by the click of a buttons
+    - A special board where you can view all media items posted by a particular user and the date and location of the post
+    - A way to view all media items sent on chats 
+    - A simplified and unique way of searching for people on the site
+    - A section that shows the most popular posts using an algorithm that extrapolates it
+    - A way to upload statuses(text, images, videos) that disappear in 24 hours
+

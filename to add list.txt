@@ -1,0 +1,17 @@
+*create a forgot password work through
+create a page that follows after first time registration that shows the user how to use the site add ability to change username
+write an algorithm that calculates whose posts to show based on the usage of the site
+create a birthday page
+how to trim video length b4 upload
+request to be adminated
+add more info to the about tab
+more functionality to posting
+forward to multiple people at once and probably with a message
+advance checkboxes on text blast
+block people
+choose themes (make a custom input:color)
+
+                        COMPLEX
+                        add voice calls
+                        add video calls
+                        add voice notes
